@@ -12,7 +12,7 @@ import Jose from './pages/Jose';
 import Behrad from './pages/Behrad';
 import Mudassar from './pages/Mudassar';
 import Simon from './pages/Simon';
-import Rubbin from './pages/Rubbin';
+import Rubin from './pages/Rubin';
 import AgilGrupp from './components/Agil-Grupp';
 
 
@@ -26,7 +26,7 @@ function App() {
           <Route path='/Behrad' exact component={Behrad}/>
           <Route path='/Jose' component={Jose}/>
           <Route path='/Mudassar' component={Mudassar}/>
-          <Route path='/Rubbin' component={Rubbin}/>
+          <Route path='/Rubin' component={Rubin}/>
           <Route path='/Simon' component={Simon}/>
         </Switch>
         <AgilGrupp />

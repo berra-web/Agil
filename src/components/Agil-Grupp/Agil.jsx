@@ -27,7 +27,7 @@ export default function Servise() {
     {
       id: 3,
       icon: <FaCircleNotch className="commonIcons" />,
-      heading: "Rubbin",
+      heading: "Rubin",
       text: "Lorem Ipsum is simply dummy text of the printing typesetting industry. simply dummy",
     },
     {

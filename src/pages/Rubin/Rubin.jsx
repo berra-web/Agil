@@ -4,18 +4,18 @@ import {
     Row,
   } from 'react-bootstrap';
 import Media from '../../components/Media';
-import Photo from '../../Assets/Rubbin.jpg';
-import './Rubbin.css';
-export default function Rubbin() {
+import Photo from '../../Assets/Rubin.jpg';
+import './Rubin.css';
+export default function Rubin() {
     return (
-        <div className='Rubbin'>
+        <div className='Rubin'>
         <Container fluid>
             <Row>
                 <Col  className="header__content">
                     <Media/>
                         <h6>CREATE YOUR WEBSITE</h6>
-                        <h1>I am Rubbin</h1>
-                        <p>i,m Rubbin, professional web developer with long time experience in this field​</p>
+                        <h1>Rubin Barclay</h1>
+                        <p>I specialize in frontend development, with a lot of focus on e-commerce and military grade AI technology.</p>
                 </Col>
                 <Col className="card__content">
                     <img className="custom-img" src={Photo} alt=""/>
