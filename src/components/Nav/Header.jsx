@@ -35,7 +35,7 @@ export default function Header() {
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="justify-content-end">
                     <Nav.Link className='link' as={Link} to="/Jose">Jose</Nav.Link>
-                    <Nav.Link className='link' as={Link} to="/Rubbin">Rubbin</Nav.Link>
+                    <Nav.Link className='link' as={Link} to="/Rubin">Rubin</Nav.Link>
                     <Nav.Link className='link' as={Link} to="/Mudassar">Mudassar</Nav.Link>
                     <Nav.Link className='link' as={Link} to="/Simon">Simon</Nav.Link>
                     <Nav.Link className='link' as={Link} to="/Behrad">Behrad</Nav.Link>
