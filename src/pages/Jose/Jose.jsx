@@ -16,7 +16,7 @@ export default function Jose() {
                     <Media/>
                         <h6>CREATE YOUR WEBSITE</h6>
                         <h1>I am Jose</h1>
-                        <p>i,m Jose, professional web developer with long time experience in this field​</p>
+                        <p>A Junior Web Developer with a huge curiosity to discover more about web design​</p>
                 </Col>
                 <Col className="card__content">
                     <img className="custom-img" src={Photo} alt=""/>
