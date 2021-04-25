@@ -14,7 +14,7 @@ export default function Jose() {
             <Row>
                 <Col  className="header__content">
                     <Media/>
-                        <h6>CREATE YOUR WEBSITE</h6>
+                        <h6>AGIL PROJEKT METODIK</h6>
                         <h1>I am Jose</h1>
                         <p>A Junior Web Developer with a huge curiosity to discover more about web design​</p>
                 </Col>
